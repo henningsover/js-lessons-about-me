@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/js-lessons-about-me/static/css/main.e77a8b9c.chunk.css",
+    "main.js": "/js-lessons-about-me/static/js/main.ee047287.chunk.js",
+    "main.js.map": "/js-lessons-about-me/static/js/main.ee047287.chunk.js.map",
+    "runtime-main.js": "/js-lessons-about-me/static/js/runtime-main.d5103373.js",
+    "runtime-main.js.map": "/js-lessons-about-me/static/js/runtime-main.d5103373.js.map",
+    "static/js/2.960f50f7.chunk.js": "/js-lessons-about-me/static/js/2.960f50f7.chunk.js",
+    "static/js/2.960f50f7.chunk.js.map": "/js-lessons-about-me/static/js/2.960f50f7.chunk.js.map",
+    "index.html": "/js-lessons-about-me/index.html",
+    "precache-manifest.5967f122ae115977a1f9fbcab23c61da.js": "/js-lessons-about-me/precache-manifest.5967f122ae115977a1f9fbcab23c61da.js",
+    "service-worker.js": "/js-lessons-about-me/service-worker.js",
+    "static/css/main.e77a8b9c.chunk.css.map": "/js-lessons-about-me/static/css/main.e77a8b9c.chunk.css.map",
+    "static/js/2.960f50f7.chunk.js.LICENSE.txt": "/js-lessons-about-me/static/js/2.960f50f7.chunk.js.LICENSE.txt",
+    "static/media/Andreas.png": "/js-lessons-about-me/static/media/Andreas.fd87d0f4.png",
+    "static/media/aboutpage-hero.jpg": "/js-lessons-about-me/static/media/aboutpage-hero.751e5879.jpg",
+    "static/media/startpage-hero.jpg": "/js-lessons-about-me/static/media/startpage-hero.907c890e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5103373.js",
+    "static/js/2.960f50f7.chunk.js",
+    "static/css/main.e77a8b9c.chunk.css",
+    "static/js/main.ee047287.chunk.js"
+  ]
+}
